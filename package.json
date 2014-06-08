@@ -1,15 +1,16 @@
 {
   "name": "leo-board-arduino",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Leo arduino board specification",
   "main": "index.js",
   "scripts": {
     "test": "tape test/*.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "leo-board": "0.0.1"
+    "leo-board": "0.0.1",
+    "leo-platform-arduino": "0.0.1"
   },
   "devDependencies": {
     "tape": "^2.13.1"

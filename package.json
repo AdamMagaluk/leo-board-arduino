@@ -1,0 +1,17 @@
+{
+  "name": "leo-board-arduino",
+  "version": "0.0.1",
+  "description": "Leo arduino board specification",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "leo-board": "0.0.1"
+  },
+  "devDependencies": {
+    "tape": "^2.13.1"
+  }
+}
